@@ -32,7 +32,6 @@ Salvar o arquivo na pasta do projeto e executar o comando
 ***docker-compose up db***
 
 ------
-
 Scripts de Criação do Banco de Dados
 
 Depois de criada a instância no banco de dados e realizado o download do client do [MySQL](https://dev.mysql.com/downloads/workbench) execute o arquivo script de criação do banco de dados. 
